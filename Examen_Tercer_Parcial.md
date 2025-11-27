@@ -3,8 +3,28 @@
 ### 17815
 
 # Habilidades blandas 
+## 1. Comunicacion.
+Transmitir ideas, informacion y sentimientos de manera clara. tanto verbal como escrito.
+## 2. Pensamiento y resolucion de problemas.
+Analizar soluciones, evaluar las opciones disponibles y escoger soluciones creativas y efectivas para el avance del equipo.
+## 3. Organización.
+Planificar, estructurar y gestionar el tiempo y tareas de manera eficiente para alcanzar objetivos y mantener un ambiente de trabajo ordenado.
+## 4. Trabajo en equipo y Liderazgo.
+Colaborar con otros para alcanzar un objetivo en comun. Inspirar, guiar y motivar a un grupo de personas hacia una meta o vision.
+## 5. Auto-mejora.
+Disposicion y compromiso de aprender continuamente, adquirir nuevas habilidades, recibir retroalimentacion y adaptarse a los cambios para crecer tanto profesional como personalmente.
 
 # Habilidades duras
+## 1. Programacion y desarrollo.
+Conocimiento técnico para escribir código utilizando diversos lenguajes de programación, como Python, JavaScript, CSS, php.
+## 2. Bases de datos.
+Experiencia en el diseño, implementacion y consulta de almacenamiento de datos. (SQL)
+## 3. Herramientas de desarrollo.
+Dominio de software y plataformas específicas (como IDEs, sistemas de control de versiones como Git, o plataformas cloud) que facilitan el ciclo de vida del desarrollo de software.
+## 4. Diseño y Frontend.
+Habilidad para crear la interfaz de usuario (UI) y la experiencia de usuario (UX) de una aplicación o sitio web, utilizando tecnologías como HTML, CSS y JavaScript, enfocándose en la estética y la usabilidad.
+## 5. Desarrollo de aplicaciones
+Competencia en la creación de aplicaciones funcionales para plataformas específicas, como móviles (iOS/Android), web o escritorio, abarcando desde la concepción hasta el despliegue.
 
 # Comandos básicos de terminal
 
