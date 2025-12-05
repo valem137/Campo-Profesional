@@ -36,6 +36,30 @@ De igual manera me gusta lo que he visto sobre redes, quiero aprender mas de ell
 Luego de realizar cambios en un proyecto, se guardan con un `commit`, que es como tomar una “foto” del estado del código al momento en que se dejó.
 
 Luego se hace `push` para enviar esos cambios al repositorio remoto. Si otro colaborador hizo modificaciones, se hace `pull` para traerlas a mi equipo. 
++
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Si se quiere trabajar en una nueva función sin afectar el código principal, se crea una `branch`. Cuando termina esa función, uno mis cambios a la rama principal utilizando `merge`.
 
@@ -105,4 +129,6 @@ Me gustó bastante la clase, siento que aprendí diferentes cosas para ser una s
 ### 16. Escribe una breve reflexión final sobre tu experiencia este semestre en la materia.
 
 Este semestre me ayudó a entender mejor hacia dónde quiero dirigir mi carrera y qué habilidades debo reforzar. Me motivó a seguir aprendiendo, a tomar más en serio el trabajo en equipo y a prepararme para los retos profesionales que vienen.
+
+# Se acabo el semestre, feliz navidad.
 
